@@ -46,7 +46,7 @@ bash
 Copy
 Edit
 
-Runs at: `http://localhost:5000`
+Runs at: `http://localhost:3000`
 
 > Setup `.env` with:
 MONGO_URI=your_mongo_connection_string
