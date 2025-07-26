@@ -98,7 +98,7 @@ Full Stack Developer | Flutter Dev | UI/UX Designer
 ## 🌐 Live URLs
 
 - Backend: [https://fitness-tracker-production-ba8c.up.railway.app](https://fitness-tracker-production-ba8c.up.railway.app)  
-- Frontend: *(Coming Soon)*
+- Frontend: [https://fitnessstracking.netlify.app/](https://fitnessstracking.netlify.app/)
 
 ---
 
