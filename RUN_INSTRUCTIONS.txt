@@ -1,0 +1,36 @@
+Fitness Tracker Project - Run Instructions
+
+---
+
+🔧 Step 1: Run Backend
+
+1. Open terminal.
+2. Navigate to the server folder:
+   cd server
+3. Install dependencies:
+   npm install
+4. Start the backend server:
+   npm start
+
+📌 Notes:
+- `.env` file is already included in the server folder.
+- Backend runs on port: 3000
+- MongoDB is connected using Atlas cloud database.
+
+---
+
+💻 Step 2: Run Frontend
+
+1. Open another terminal.
+2. Navigate to the frontend folder:
+   cd frontend
+3. Install dependencies:
+   npm install
+4. Start the React app:
+   npm start
+
+The app will be available at: http://localhost:5173
+
+---
+
+✅ Project is now ready to use.
